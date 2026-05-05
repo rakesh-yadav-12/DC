@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exp 1 execution steps
 
 ```
@@ -19,3 +20,6 @@ java IPCClient
 
 ## Output :
 ![Output](output.png)
+=======
+# DC
+>>>>>>> 744ce26e80cf618022dfb02f7a0258c41c73c410
